@@ -40,6 +40,7 @@ public class HelloApplication extends Application  { //inheriting core functiona
         layout.getChildren().add(anchorPane);
 
 
+
     }
 
     // TODO: follow steps 10-21 in README.md to add objects to your layout (inside start)
